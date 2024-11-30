@@ -1,6 +1,6 @@
 # 👋 Olá! Bem-vindo ao meu GitHub
 
-Eu me chamo [Hugo], um entusiasta de tecnologia apaixonado por desenvolvimento de software e qualidade de código. Atualmente, sou estudante de **Engenharia de Software na UFG** e desenvolvedor na **Level5jr**, além de participar do programa **Vem Ser DBC** na trilha de QA.
+Eu me chamo Hugo Santos, um entusiasta de tecnologia apaixonado por desenvolvimento de software e qualidade de código. Atualmente, sou estudante de **Engenharia de Software na UFG** e desenvolvedor na **Level5jr**, além de participar do programa **Vem Ser DBC** na trilha de QA.
 - 💻 **Experiência Profissional**: Tenho mais de 2 anos de experiência como suporte de TI e 1 ano na área de desenvolvimento, estou focado em expandir minhas habilidades em programação e automação de testes.
 - 📚 **Habilidades**: Estou sempre aprendendo novas linguagens e frameworks para me tornar um profissional mais completo. Atualmente focado em:
   - **QA**: Automação de testes com Selenium, Cypress, Postman e integração com CI/CD.
