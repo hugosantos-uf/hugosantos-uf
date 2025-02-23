@@ -37,7 +37,7 @@ Eu me chamo Hugo Santos, um entusiasta de tecnologia apaixonado por desenvolvime
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/-Rest%20Assured-009639?logo=java&logoColor=white)
 
 ### Ferramentas e Outras Skills:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
