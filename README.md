@@ -5,7 +5,7 @@ Eu me chamo Hugo Santos, um entusiasta de tecnologia apaixonado por desenvolvime
 - 📚 **Habilidades**: Estou sempre aprendendo novas linguagens e frameworks para me tornar um profissional mais completo. Atualmente focado em:
   - **QA**: Automação de testes com Selenium, Cypress, Postman e integração com CI/CD.
   - **Desenvolvimento**: JavaScript, Java e frameworks como React e Spring Boot.
-- 🎯 **Objetivo**: Me destacar como desenvolvedor, podendo atuar em todas as etapas na contrução de softwares de qualidade.
+- 🎯 **Objetivo**: Me destacar como Engenheiro de Software, podendo atuar em todas as etapas na contrução de softwares de qualidade.
 
 ---
 
